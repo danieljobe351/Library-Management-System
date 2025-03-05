@@ -8,13 +8,11 @@ The **Library Management System** is a Java-based application designed to manage
 ✔️ Search for books by title, author, or ID  
 ✔️ Issue books to borrowers  
 ✔️ Return books and update availability  
-✔️ Maintain borrower details  
-✔️ Simple user authentication (if implemented)  
+✔️ Maintain borrower details    
 ✔️ Data persistence using file handling or database  
 
 ## 🛠️ Technologies Used  
 - **Programming Language:** Java  
-- **User Interface:** Java Swing (if applicable) or CLI (Command Line Interface)  
 - **Data Storage:** File handling (TXT/CSV) or Database (MySQL, SQLite)  
 - **OOP Concepts:** Encapsulation, Inheritance, Polymorphism  
 
